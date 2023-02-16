@@ -1,4 +1,4 @@
-package interface_def;
+package DataStructure;
 import java.util.Arrays;
 
 import interface_def.List;
