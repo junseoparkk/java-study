@@ -6,7 +6,7 @@
  * 
  */
 
- package interface_def;
+ package DataStructure.interface_def;
 
  public interface List<E>{
    

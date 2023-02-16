@@ -1,7 +1,7 @@
-package DataStructure;
+package DataStructure.collection;
 import java.util.Arrays;
 
-import interface_def.List;
+import DataStructure.interface_def.List;
 
 public class ArrayList<E> implements List<E>{
 
