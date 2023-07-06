@@ -7,7 +7,7 @@ Study Java
 자료 구조 공부
 
 <h1>Java Jungsuk</h1>
-자바 정석 문제 풀이
+자바의 정석 연습 문제 풀이
 
 <h1>This is Java</h1>
 이것이 자바다 예제
