@@ -1,7 +1,7 @@
 # Java_Study
 Study Java
 
-개인적으로 자바를 공부한 것을 기록한 저장소입니다.
+개인적으로 자바 공부한 것을 기록한 저장소입니다.
 
 <h1>Data Structure</h1>
 자료 구조 공부
